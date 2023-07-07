@@ -1,2 +1,2 @@
-# dili-image
+# Dili-Image
 blog image
